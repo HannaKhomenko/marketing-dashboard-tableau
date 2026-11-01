@@ -8,7 +8,7 @@ An interactive marketing dashboard built on advertising data from Facebook Ads a
 
 > Training project (course dataset).
 
-<img src="images/dashboard.png" width="700" alt="Marketing Performance Dashboard">
+<img src="images/dashboard.png" width="800" alt="Marketing Performance Dashboard">
 
 ---
 
@@ -92,16 +92,16 @@ Final query: [`sql/fb_google_ads.sql`](sql/fb_google_ads.sql)
 The `Select Metric` parameter switches the same charts between metrics. Examples with **CPL** and **ROMI**:
 
 **Metric Trend, CPL by platform**<br>
-<img src="images/metric-trend-cpl.png" width="700" alt="Metric Trend, CPL">
+<img src="images/metric-trend-cpl.png" width="600" alt="Metric Trend, CPL">
 
 **Campaign Ranking, CPL**<br>
-<img src="images/campaign-ranking-cpl.png" width="700" alt="Campaign Ranking, CPL">
+<img src="images/campaign-ranking-cpl.png" width="600" alt="Campaign Ranking, CPL">
 
 **Campaign Efficiency Analysis, ROMI**<br>
-<img src="images/campaign-efficiency-romi.png" width="700" alt="Campaign Efficiency Analysis, ROMI">
+<img src="images/campaign-efficiency-romi.png" width="600" alt="Campaign Efficiency Analysis, ROMI">
 
 **Highest ROMI: "Trendy" and "Promos" (Facebook)**<br>
-<img src="images/campaign-efficiency-roi-tooltip.png" width="700" alt="ROMI of Trendy and Promos campaigns">
+<img src="images/campaign-efficiency-roi-tooltip.png" width="600" alt="ROMI of Trendy and Promos campaigns">
 
 ---
 
