@@ -4,7 +4,7 @@
 
 An interactive marketing dashboard built on advertising data from Facebook Ads and Google Ads. Data from four database tables is joined and cleaned in SQL, exported to CSV, and turned into a Tableau dashboard that tracks spend, leads and efficiency of ad campaigns.
 
-🔗 **[Open the interactive dashboard on Tableau Public](https://public.tableau.com/views/Project_2_Tableau_Dashboard/MarketingPerformance?:language=en-US&:display_count=n&:origin=viz_share_link)**
+🔗 **[Open the interactive dashboard on Tableau Public](https://public.tableau.com/views/MarketingPerformanceDashboardFacebookAdsGoogleAds/MarketingPerformance?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 > Training project (course dataset).
 
